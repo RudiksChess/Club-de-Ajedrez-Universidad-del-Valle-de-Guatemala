@@ -2,6 +2,7 @@
 Resultados de los torneos interfacultades del Club de Ajedrez de la Universidad Del Valle de Guatemala
 
 ## Resultados hasta la ronda 2
+
 |    | Nombre                                | Carrera                                       | Usuario            |   R1 |    D1 |   R2 |    D2 |   Score |     D |
 |---:|:--------------------------------------|:----------------------------------------------|:-------------------|-----:|------:|-----:|------:|--------:|------:|
 |  0 | Carlos Andrés Escobar Méndez          | Ingeniería Mecatrónica                        | escocar06          |  6   | 23.5  |  6   | 18    |    12   | 41.5  |
